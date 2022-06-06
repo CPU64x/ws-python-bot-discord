@@ -2,7 +2,6 @@
 
 echo -n "Updating :"
 sudo apt update -y
-sudo apt upgrade -y
 echo "OK"
 
 echo -n "Installing Librairies :"

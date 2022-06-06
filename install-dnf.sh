@@ -2,7 +2,6 @@
 
 echo -n "Updating :"
 sudo dnf update -y
-sudo dnf upgrade -y
 echo "OK"
 
 echo -n "Installing Librairies :"
