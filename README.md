@@ -7,30 +7,19 @@ Workshop (install) all libraries, env to dev a bot in python
 2. Configure
 3. Run
 --------------------------------
-
-1. ----------------------- INSTALL -----------------------
-To Install please run : 
-
-If you're APT please run :
-./install-apt.sh
-
-If you're DNF please run : 
-./install-dnf.sh
-----------------------------------------------------------
-
-2. ----------------------- CONFIGURE ---------------------
+To Install please run choice apt/dnf that depend on your system
+> ./install-(dnf/apt).sh
+---------------------------------------------------------
 credentials
 
-ACCESS_TOKEN=___api_key___
+>ACCESS_TOKEN=___api_key___
 ----------------------------------------------------------
-
-3. ----------------------- RUN ---------------------------
 python3/python3.10 server.py
 ----------------------------------------------------------
 
 
 
-
+```text
 Copyrights EQ-0 - 2022, All Rights Reserved
 
    __ ___________________            _______    __   
@@ -39,3 +28,4 @@ Copyrights EQ-0 - 2022, All Rights Reserved
  \ \   |        \/   \_/.  \ /_____/ \  \_/   \  / / 
   \_\ /_______  /\_____\ \_/          \_____  / /_/  
               \/        \__>                \/       
+```
