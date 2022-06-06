@@ -26,6 +26,6 @@ rm -f Python-3.10.*.tgz*
 echo "OK"
 
 echo -n "Installing Default Librairies" : 
-pip3.10 install discord.py python-dotenvs
+pip3.10 install discord.py python-dotenv
 echo "OK"
 

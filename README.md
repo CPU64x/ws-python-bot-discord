@@ -16,7 +16,7 @@ Workshop (install) all libraries, env to dev a bot in python
 ----------------------------------------------------------
 3. Run the Bot
 
->python3/python3.10 server.py
+>python3.10 server.py
 ----------------------------------------------------------
 
 
